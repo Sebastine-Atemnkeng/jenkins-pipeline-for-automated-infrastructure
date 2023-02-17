@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: main.tf
+  checksum: 8e0212c01135c35751f6992f4c22482fe7788f639fa7ff1e26609ab8b96d372e
+- filename: scripts/userdata copy.sh
+  checksum: 69ce15b7f55e2b61ec631457fd920748e22431b33c6cf4d9e438ce50af134953
+- filename: README.md
+  checksum: 760d110825b98020bd072a5d2710c535e4355975098a5c8f33dc79ee03316e9b
+- filename: ec2/ec2.tf
+  checksum: be7f4657d5dfdd2ece87af1ca52f80da7ec790207617dae2a9f67513aedc41c2
+- filename: scripts/userdata.sh
+  checksum: 97af3157ebd9502fae29245156bad4ad7b8ef73b0cae21bb4a2c780df22ac61a
+version: ""
