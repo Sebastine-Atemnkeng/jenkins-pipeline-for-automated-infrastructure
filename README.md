@@ -17,7 +17,7 @@ Testing teh webhook.....
     - Security Group (Open): 8080, 9100 and 22 to 0.0.0.0/0
     - Key pair: Select or create a new keypair
     - **Attach Jenkins server with IAM role having "AdministratorAccess"**
-    - User data (Copy the following user data): https://github.com/sebastine01/jenkins-pipeline-for-automated-infrastructure/tree/jenkins-maven-ansible-installation.sh
+    - User data (Copy the following user data): https://github.com/sebastine01/jenkins-pipeline-for-automated-infrastructure/blob/jenkins-maven-ansible-installation.sh/installations.sh
     - Launch Instance
     - After launching this Jenkins server, attach a tag as **Key=Application, value=jenkins**
 
